@@ -13,3 +13,4 @@ This simple project is based on the following SceneKitOffscreenRendering example
 
 [SceneKitOffscreenRendering](https://github.com/lachlanhurst/SceneKitOffscreenRendering)
 
+To view the output of the Syphon Server - easiest to download the [Syphon Recorder Demo App from the Syphon Project](https://syphon.github.io/recorder). But should also work in any Syphon enabled client.
