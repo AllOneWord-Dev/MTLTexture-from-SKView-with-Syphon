@@ -1,4 +1,4 @@
-##SpriteKit View with Syphon Server Output
+# SpriteKit View with Syphon Server Output
 
 ![Screenshot](https://raw.githubusercontent.com/AllOneWord-Dev/MTLTexture-from-SKView-with-Syphon/main/docs/screenshot.png)
 
